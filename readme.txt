@@ -6,3 +6,6 @@ Git tracks changes.
 Creating a branch is very easy.
 Merge is Merge is Merge.
 I fix this.
+I'm working.
+I'm still working.
+
