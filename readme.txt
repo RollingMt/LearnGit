@@ -3,4 +3,4 @@ Git is free software distributed under the GPL.
 I cannot use Git approperiately.
 Git has a mutable index called stage.
 Git tracks changes.
-Creating a branch is not so easy.
+Creating a branch is very easy.
