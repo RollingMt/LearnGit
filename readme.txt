@@ -5,3 +5,5 @@ Git has a mutable index called stage.
 Git tracks changes.
 Creating a branch is very easy.
 Merge is Merge is Merge.
+I'm working.
+I'm still working.
